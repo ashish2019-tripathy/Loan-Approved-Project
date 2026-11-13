@@ -35,3 +35,5 @@ Developed data-cleaning and analytical skills.
 Extracted meaningful insights using SQL.
 Presented key findings through an interactive Power BI dashboard.
 Demonstrated an end-to-end data analytics workflow.
+
+![image alt](https://github.com/ashish2019-tripathy/Loan-Approved-Project/blob/cb11d432bf73fd16c5fb87cfa2ed4b671c272e9c/Screenshot%202026-11-13%20090732.png)
